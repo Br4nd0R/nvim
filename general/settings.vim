@@ -18,8 +18,6 @@ set tabstop=4                   " use 4 spaces per tab
 set shiftwidth=4                " set number of spaces inserted for indentation
 set smarttab                    " tabbing realizes you have 2 spaces vs 4 spaces
 set background=dark             " tell vim what kind of background we're using
-set nobackup                    " recommended by coc
-set nowritebackup               " recommended by coc
 set scrolloff=999               " center cursor vertically when possible
 
 " Change cursor for different modes
